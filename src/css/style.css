@@ -65,4 +65,7 @@ button {
     article {
         margin: 30px 0;
     }
+    button {
+        padding: 10px 15px;
+    }
 }
